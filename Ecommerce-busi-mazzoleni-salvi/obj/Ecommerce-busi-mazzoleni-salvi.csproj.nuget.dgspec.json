@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\busi.20132\\Desktop\\Ecommerce-busi-mazzoleni-salvi\\Ecommerce-busi-mazzoleni-salvi.csproj": {}
+    "C:\\Users\\busi.20132\\Desktop\\Ecommerce-Busi-Mazzoleni-Salvi\\Ecommerce-busi-mazzoleni-salvi\\Ecommerce-busi-mazzoleni-salvi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\busi.20132\\Desktop\\Ecommerce-busi-mazzoleni-salvi\\Ecommerce-busi-mazzoleni-salvi.csproj": {
+    "C:\\Users\\busi.20132\\Desktop\\Ecommerce-Busi-Mazzoleni-Salvi\\Ecommerce-busi-mazzoleni-salvi\\Ecommerce-busi-mazzoleni-salvi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\busi.20132\\Desktop\\Ecommerce-busi-mazzoleni-salvi\\Ecommerce-busi-mazzoleni-salvi.csproj",
+        "projectUniqueName": "C:\\Users\\busi.20132\\Desktop\\Ecommerce-Busi-Mazzoleni-Salvi\\Ecommerce-busi-mazzoleni-salvi\\Ecommerce-busi-mazzoleni-salvi.csproj",
         "projectName": "Ecommerce-busi-mazzoleni-salvi",
-        "projectPath": "C:\\Users\\busi.20132\\Desktop\\Ecommerce-busi-mazzoleni-salvi\\Ecommerce-busi-mazzoleni-salvi.csproj",
+        "projectPath": "C:\\Users\\busi.20132\\Desktop\\Ecommerce-Busi-Mazzoleni-Salvi\\Ecommerce-busi-mazzoleni-salvi\\Ecommerce-busi-mazzoleni-salvi.csproj",
         "packagesPath": "C:\\Users\\busi.20132\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\busi.20132\\Desktop\\Ecommerce-busi-mazzoleni-salvi\\obj\\",
+        "outputPath": "C:\\Users\\busi.20132\\Desktop\\Ecommerce-Busi-Mazzoleni-Salvi\\Ecommerce-busi-mazzoleni-salvi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

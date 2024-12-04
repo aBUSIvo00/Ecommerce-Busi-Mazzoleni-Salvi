@@ -41,8 +41,8 @@ namespace Ecommerce_busi_mazzoleni_salvi
 
         private void button3_Click(object sender, EventArgs e)
         {
-           carrello.SvuotaCarrello();
-           AggiornaInterfaccia();
+            carrello.SvuotaCarrello();
+            AggiornaInterfaccia();
 
         }
     }
